@@ -1,4 +1,4 @@
-Python script to fetch all the links posted in a vbullettin forum board. Because life is too short manually check your form every day.
+Python script to fetch all the links posted in a vbullettin forum board. Because life is too short manually check your forum every day.
 
 ### Usage
 
